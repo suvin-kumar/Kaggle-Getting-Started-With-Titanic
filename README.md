@@ -1,1 +1,1 @@
-# Kaggle-Getting-Started-With-Titanic
+# Kaggle - Getting Started With Titanic
